@@ -2,6 +2,10 @@
 Install node.js in your loacal desktop.
 In the project directory, you can run:
 
+### `npm install`
+
+Installs the node module files required to run the code in your pc.\
+
 ### `npm start`
 
 Runs the app in the development mode.\
