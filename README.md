@@ -1,5 +1,5 @@
 # Getting Started
-Install node.js in your loacal desktop.
+Install node.js in your local desktop.
 In the project directory, you can run:
 
 ### `npm install`
